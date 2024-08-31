@@ -20,7 +20,7 @@ The To-Do List Manager is a Python-based command-line tool that helps users mana
 
 2. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/todo-list-manager.git
+   git clone https://github.com/GabrielB03/to-do-list.git
    
 3. Navigate to the project directory:
    ```bash
